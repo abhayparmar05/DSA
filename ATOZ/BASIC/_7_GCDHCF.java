@@ -13,16 +13,17 @@ public class _7_GCDHCF {
                 break;
             }
         }
+            // Equlid algorithm
+    // while (n > 0 && n1 > 0) {
+    // if (n > n1)
+    // n = n1 % n1;
+    // else
+    // n1 = n1 % n;
+    // }
+    // if (n == 0)
+    // System.out.println(n1);
+    // else
+    // System.out.println(n);
+
     }
-    // Equlid algorithm
-    while (n > 0 && n1 > 0) {
-    if (n > n1)
-    n = n1 % n1;
-    else
-    n1 = n1 % n;
-    }
-    if (n == 0)
-    System.out.println(n1);
-    else
-    System.out.println(n);
 }
