@@ -1,6 +1,6 @@
 public class _19_HasMapCharcount {
     public static void main(String[] args) {
-        String str = "1234@!#$%ABHAYBHAKTIabc";
+        String str = "1234@!#$%ABHAYBabc";
         char c[]=str.toCharArray();
 
         int hash[] = new int[256];
